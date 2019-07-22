@@ -19,13 +19,20 @@
                     Multi-touch zoom in Javascript
                 </p>
             </div>
-            <img src="frog.jpg"/>
+            <img src="layer1.svg"/>
         </div>
     </div>
 
     <script type="text/javascript">
       var el = document.querySelector('div.pinch-zoom');
-      new PinchZoom.default(el, {});
+      // new PinchZoom.default(el, {});
+
+      var PinchZoom = function (el, options) {
+this.el = el;
+this.zoomFactor = 100; }// your initScaleRate value
+
+
+
     </script>
 
 </body>
