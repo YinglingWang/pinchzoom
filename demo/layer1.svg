@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"[]>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" width="4592.25000001995" height="6630.18340889636" overflow="auto" preserveAspectRatio="xMidYMid" id="svgStore100" store="100"
+dwgdbid="9300" lastupdated="1/19/2016 4:46:42 PM" dwgtopleft="-3918.172,4437.866">
+<g id = "background" fill = "#E3FCFC">
+	<polygon points=" 0,0 0,6630.18340889636 4592.25000001995,6630.18340889636 4592.25000001995,0 0,0"/> 
+</g>
+<g id = "area" fill="#bbdefb">
+	<polygon points=" 475,1945 475,3000 1090,3000 1090,1945 475,1945"/> 
+	<polygon points=" 425,3146 425,4640 1258,4640 1258,3146 425,3146"/> 
+	<polygon points=" 1310,1915 1310,2210 2290,2210 2290,1915 1310,1915"/> 
+	<polygon points=" 1675,2340 1675,5305  2585,5305 2585,2340 675,2340"/> 
+	<polygon points=" 2942,2392 2942,4345 3778,4345 3778,2392 2942,2392"/> 
+</g>
+</svg>
+
