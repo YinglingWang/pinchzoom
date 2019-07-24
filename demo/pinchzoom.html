@@ -8,6 +8,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
 
     <script type="text/javascript" src="../dist/pinch-zoom.umd.js"></script>
+
 </head>
 <body>
 
@@ -20,14 +21,22 @@
                 </p>
             </div>
             <img id="img" src="https://yinglingwang.github.io/pinchzoom/demo/layer1.svg" onclick="changeImage()" />
+         
         </div>
     </div>
 
 
     <script type="text/javascript">
-      let el = document.querySelector('div.pinch-zoom');
-      let pz = new PinchZoom.default(el);
+      var el = document.querySelector('div.pinch-zoom');
+      var pz = new PinchZoom.default(el, {
+    draggableUnzoomed: false,
+    minZoom: 0.5,
+    maxZoom: 4,
+
+})
       pz.enable();
+     
+
        function changeImage() {
 
         if (document.getElementById("img").src == "https://yinglingwang.github.io/pinchzoom/demo/layer1.svg") 
