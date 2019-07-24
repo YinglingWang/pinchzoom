@@ -5,13 +5,7 @@ dwgdbid="9300" lastupdated="1/19/2016 4:46:42 PM" dwgtopleft="-3918.172,4437.866
 <g id = "background" fill = "#E3FCFC">
 	<polygon points=" 0,0 0,6630.18340889636 4592.25000001995,6630.18340889636 4592.25000001995,0 0,0"/> 
 </g>
-<g id = "area" fill="#bbdefb">
-	<polygon points=" 475,1945 475,3000 1090,3000 1090,1945 475,1945"/> 
-	<polygon points=" 425,3146 425,4640 1258,4640 1258,3146 425,3146"/> 
-	<polygon points=" 1310,1915 1310,2210 2290,2210 2290,1915 1310,1915"/> 
-	<polygon points=" 1675,2340 1675,5305  2585,5305 2585,2340 675,2340"/> 
-	<polygon points=" 2942,2392 2942,4345 3778,4345 3778,2392 2942,2392"/> 
-</g>
+
 <g id="SHELL"  fill="#bbdefb" stroke="black" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10">
 <line x1="233.625000009985" y1="6115.99999999998" x2="233.625000009989" y2="5861.12499999998"/>
 <line x1="233.625000009989" y1="5855.99999999998" x2="233.625000009989" y2="5776.06249999998"/>
@@ -4136,6 +4130,53 @@ dwgdbid="9300" lastupdated="1/19/2016 4:46:42 PM" dwgtopleft="-3918.172,4437.866
 <line x1="427.538375656822" y1="4725.68749999998" x2="301.538375656822" y2="4725.68749999998"/>
 <line x1="1074.03277514571" y1="1744.12499999998" x2="1014.03277514571" y2="1744.12499999998"/>
 <line x1="1014.03277514571" y1="1713.93749999998" x2="1074.03277514571" y2="1713.93749999998"/>
+</g>
+<g id = "department">
+	<rect x="402" y="816" width="1344" height="431"
+  fill = "#3498DB" />
+  <text x="1074" y="1031.5" font-size="60" style='dominant-baseline:middle;text-anchor:middle' >Department1</text>
+
+  <rect x="1749" y="1102" width="507" height="249"
+  fill = "#3498DB" />
+  <text x="2002.5" y="1226.5"  font-size="60" style='dominant-baseline:middle;text-anchor:middle'>Department2</text>
+
+  <rect x="482" y="1355" width="1987" height="447"
+  fill = "#ABB2B9    " />
+  <text x="1475.5" y="1578.5"  font-size="60" style='dominant-baseline:middle;text-anchor:middle'>Department3</text>>
+
+  <rect x="1344" y="1920" width="1140" height="295"
+  fill = "#ABB2B9   " />
+  <text x="1914" y="2067.5"  font-size="60" style='dominant-baseline:middle;text-anchor:middle'>Department4</text>
+
+  <rect x="224" y="3125" width="1220" height="2650"
+  fill = "#BB8FCE  " />
+  <text x="834" y="4450"  font-size="60" style='dominant-baseline:middle;text-anchor:middle'>Department5</text>
+
+  <rect x="2669" y="1345" width="1385" height="4150"
+  fill = "#EB984E" />
+  <text x="3361.5" y="3420"  font-size="60" style='dominant-baseline:middle;text-anchor:middle'>Department6</text>
+
+  <rect x="4064" y="5120" width="475" height="890"
+  fill = "#EC7063" />
+  <text x="4301.5" y="5565"  font-size="60" style='dominant-baseline:middle;text-anchor:middle'>Department7</text>
+
+  <rect x="1484" y="2290" width="1085" height="3070"
+  fill = "#F7DC6F " />
+  <text x="2026.5" y="3825"  font-size="60" style='dominant-baseline:middle;text-anchor:middle'>Department8</text>
+
+
+  <rect x="449" y="1920" width="660" height="1100"
+  fill = "#27AE60" />
+  <text x="779" y="2470"  font-size="60" style='dominant-baseline:middle;text-anchor:middle'>Department9</text>
+
+  <rect x="1270" y="2344" width="90" height="675"
+  fill = "#27AE60" />
+  <text x="1315" y="2681.5"  font-size="60" style='dominant-baseline:middle;text-anchor:middle'>Department10</text>
+
+  <rect x="232" y="1702" width="72" height="1390"
+  fill = "#27AE60" />
+  <text x="268" y="2397" font-size="60" style='dominant-baseline:middle;text-anchor:middle'>Department11</text>
+	
 </g>
 </svg>
 
